@@ -6,10 +6,10 @@ This application is the back end API for the pokemon team builder project.
 <a href="">Deployed client</a>
 <a href="">Deployed API</a>
 <a href="https://github.com/dhdonaldha1/pokemon-client">Client repository</a>
-<a href="">Requirements</a>
+<a href="">API documentation</a>
 
 ## Planning Story
-
+After testing user functions using curl scripts, I created the model for pokemon.  They created routes for pokemon along with curl scripts to test that only users signed in can access crud actions for their own pokemon team. 
 
 
 ### User Stories
@@ -32,3 +32,4 @@ This application is the back end API for the pokemon team builder project.
 ---
 
 #### ERD(entity relationship diagram):
+<img src="https://imgur.com/0VNZ17v.jpg">
