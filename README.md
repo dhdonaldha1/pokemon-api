@@ -3,7 +3,7 @@
 This application is the back end API for the pokemon team builder project.
 
 ## Important Links
-<a href="">Deployed client</a>
+<a href="https://dhdonaldha1.github.io/pokemon-client/">Deployed client</a>
 <a href="https://dons-pokemon.herokuapp.com/">Deployed API</a>
 <a href="https://github.com/dhdonaldha1/pokemon-client">Client repository</a>
 <a href="https://github.com/dhdonaldha1/pokemon-api/blob/main/API-docs.md">API documentation</a>
